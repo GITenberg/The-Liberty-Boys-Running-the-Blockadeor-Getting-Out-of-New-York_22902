@@ -1,0 +1,29 @@
+_repo: The-Liberty-Boys-Running-the-Blockadeor-Getting-Out-of-New-York_22902
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22902-h/images/lb-1110-cover.jpg
+creator:
+  author:
+    agent_name: Moore, Harry
+    gutenberg_agent_id: '25588'
+    url: http://www.gutenberg.org/2009/agents/25588
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22902'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+- !lcsh 'New York (N.Y.) -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+- !lcsh 'Historical fiction'
+title: 'The Liberty Boys Running the Blockade
+
+  or, Getting Out of New York'
+url: http://www.gutenberg.org/ebooks/22902
